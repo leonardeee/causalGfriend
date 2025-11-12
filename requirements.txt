@@ -1,0 +1,7 @@
+torch>=2.0
+transformers>=4.35
+accelerate>=0.25
+datasets
+sentencepiece
+vllm>=0.4.0
+deepspeed
